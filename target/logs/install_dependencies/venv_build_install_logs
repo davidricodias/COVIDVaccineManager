@@ -1,0 +1,10 @@
+Collecting freezegun
+  Using cached freezegun-1.2.1-py3-none-any.whl (16 kB)
+Collecting python-dateutil>=2.7
+  Using cached python_dateutil-2.8.2-py2.py3-none-any.whl (247 kB)
+Collecting six>=1.5
+  Using cached six-1.16.0-py2.py3-none-any.whl (11 kB)
+Installing collected packages: six, python-dateutil, freezegun
+Successfully installed freezegun-1.2.1 python-dateutil-2.8.2 six-1.16.0
+WARNING: You are using pip version 21.3.1; however, version 22.1.1 is available.
+You should consider upgrading via the '/Users/josedavidricodias/PycharmProjects/G50.2022.T07.FP/target/venv/build/cpython-3.8.9.final.0/bin/python -m pip install --upgrade pip' command.
